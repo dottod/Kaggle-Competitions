@@ -1,0 +1,5 @@
+.venv
+*test
+kaggle.json
+sartorius-cell-instance-segmentation
+*_data
